@@ -14,7 +14,17 @@ Description of your project. This is simmple project to book an event
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+1.  git clone https://github.com/LiladharSapkota790/finalwebsite.git
 
-   Create the .env file
+
+ Important 
+then npm install 
+
+ #  Create the .env file
+Mongo_Cloud
+ PORT 
+SESSION_SECRET
+
+ # Create .gitignore file 
+ 
    

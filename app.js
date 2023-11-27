@@ -13,7 +13,8 @@ const mongoose = require('mongoose');
 dotenv.config();
 
 /*This is for authenication*/
-const bcrypt = require('bcrypt');
+// const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const passport = require('passport');
 
 const session = require('express-session');
